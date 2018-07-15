@@ -1,6 +1,6 @@
 * {font-family: "Helvetica";}
 .flatiron {background-image: url('../images/the-flatiron-building.png'); text-align: center; color: White;}
-a {font-size: 18px; text-decoration: underline;}
+a {font-size: 18px; text-decoration: underline; color: white;}
 h1, h2, h3 {align: center;}
 div {text-align: center;}
 h1 {font-weight: bold; font-size: 70px;}
